@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tarefa-bootcamp-react-formik/static/css/main.97d7ebc9.chunk.css",
+    "main.js": "/tarefa-bootcamp-react-formik/static/js/main.01d4d294.chunk.js",
+    "main.js.map": "/tarefa-bootcamp-react-formik/static/js/main.01d4d294.chunk.js.map",
+    "runtime-main.js": "/tarefa-bootcamp-react-formik/static/js/runtime-main.70bb7169.js",
+    "runtime-main.js.map": "/tarefa-bootcamp-react-formik/static/js/runtime-main.70bb7169.js.map",
+    "static/js/2.38ef5353.chunk.js": "/tarefa-bootcamp-react-formik/static/js/2.38ef5353.chunk.js",
+    "static/js/2.38ef5353.chunk.js.map": "/tarefa-bootcamp-react-formik/static/js/2.38ef5353.chunk.js.map",
+    "index.html": "/tarefa-bootcamp-react-formik/index.html",
+    "precache-manifest.54d5f7702362fa99a7c2ab13a99d698e.js": "/tarefa-bootcamp-react-formik/precache-manifest.54d5f7702362fa99a7c2ab13a99d698e.js",
+    "service-worker.js": "/tarefa-bootcamp-react-formik/service-worker.js",
+    "static/css/main.97d7ebc9.chunk.css.map": "/tarefa-bootcamp-react-formik/static/css/main.97d7ebc9.chunk.css.map",
+    "static/js/2.38ef5353.chunk.js.LICENSE.txt": "/tarefa-bootcamp-react-formik/static/js/2.38ef5353.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70bb7169.js",
+    "static/js/2.38ef5353.chunk.js",
+    "static/css/main.97d7ebc9.chunk.css",
+    "static/js/main.01d4d294.chunk.js"
+  ]
+}
